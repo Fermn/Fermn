@@ -2,4 +2,4 @@
 
 ---
 
-<h6 align="center">A self-proclaimed craftsman, who enjoys building digital solutions ⚒️</h6>
+<h6 align="center">A self-proclaimed craftsman ⚒️ who enjoys building digital solutions.</h6>
